@@ -17,7 +17,7 @@ body {
 }
 
 .left {
-    width: 40%;
+    width: 60%;
     display: inline-block;
 }
 
@@ -27,7 +27,7 @@ body {
 
 .right {
     margin-left: 25px;
-    width: calc(60% - 25px);
+    width: calc(40% - 25px);
     float: right;
     display: inline-block;
 }
